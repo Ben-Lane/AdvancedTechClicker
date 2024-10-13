@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/YEAR 3 UNI/VersusClickerAT/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"F:/YEAR 3 UNI/VersusClickerAT/Content/Scenes/TestingScene.umap",
+				"F:/YEAR 3 UNI/VersusClickerAT/Content/MC_Streamer.uasset",
+				"F:/YEAR 3 UNI/VersusClickerAT/Content/MC_Viewer.uasset",
+				"F:/YEAR 3 UNI/VersusClickerAT/Content/ENUM_GameStates.uasset",
+				"F:/YEAR 3 UNI/VersusClickerAT/Content/Input/MC_Streamer.uasset",
+				"F:/YEAR 3 UNI/VersusClickerAT/Content/Input/MC_Viewer.uasset",
+				"F:/YEAR 3 UNI/VersusClickerAT/Content/Input/Viewer_Inputs/IA_ToggleModeVIE.uasset",
+				"F:/YEAR 3 UNI/VersusClickerAT/Content/Input/Streamer_Inputs/IA_ToggleModeSTR.uasset",
+				"F:/YEAR 3 UNI/VersusClickerAT/Content/GM_MainGameMode.uasset",
+				"F:/YEAR 3 UNI/VersusClickerAT/Content/BP_MainCamera.uasset",
+				"F:/YEAR 3 UNI/VersusClickerAT/Content/GameElements/BP_Cube.uasset"
+			]
+		}
+	]
+}
